@@ -1,0 +1,175 @@
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connexion.resources
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+F:\pda\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+F:\pda\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+F:\pda\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connexion.resources
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+G:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+G:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+G:\pda\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+G:\pda\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+G:\pda\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+G:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connexion.resources
+G:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+G:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+G:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+F:\pda\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+F:\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+F:\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+C:\Users\ALEX\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.produit.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.fournisseur.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajfournisseur.resources
+C:\Users\HP\Desktop\pda2\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajproduit.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajfournisseur.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajproduit.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.fournisseur.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.produit.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modclient.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modfournisseur.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modproduit.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formuldec.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formulc.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajfournisseur.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajproduit.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formulc.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formuldec.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.fournisseur.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modclient.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modfournisseur.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modproduit.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.produit.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\ALEX\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda20203\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.vente.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Achat.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajvente.resources
+C:\Users\HP\Desktop\pda2023\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajachat.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+F:\pda(harrak&maizi)\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+F:\pda(harrak&maizi)\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Achat.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajachat.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajfournisseur.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajproduit.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajvente.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formulc.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formuldec.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.fournisseur.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modclient.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modfournisseur.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modproduit.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.produit.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Vente.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+F:\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Achat.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajachat.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajfournisseur.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajproduit.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajvente.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formulc.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formuldec.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.fournisseur.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modclient.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modfournisseur.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modproduit.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.produit.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Vente.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\HP\Desktop\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\bin\Debug\gestionstock.exe
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\bin\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Achat.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajachat.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajfournisseur.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajproduit.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.ajvente.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.amclient.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.client1.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.connixion.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formulc.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.formuldec.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.fournisseur.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Menu.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modclient.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modfournisseur.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.modproduit.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.produit.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.forms.Vente.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.Properties.Resources.resources
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.exe
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.pdb
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projet miage\pda(harrak&maizi)\gestionstock\gestionstock\obj\Debug\gestionstock.csproj.CoreCompileInputs.cache

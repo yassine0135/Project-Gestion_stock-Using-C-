@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{773490A1-51C6-4325-950B-1C52B98BD0DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>gestionstock</RootNamespace>
+    <AssemblyName>gestionstock</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="forms\Achat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\Achat.Designer.cs">
+      <DependentUpon>Achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ajachat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ajachat.Designer.cs">
+      <DependentUpon>ajachat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ajfournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ajfournisseur.Designer.cs">
+      <DependentUpon>ajfournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ajproduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ajproduit.Designer.cs">
+      <DependentUpon>ajproduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ajvente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ajvente.Designer.cs">
+      <DependentUpon>ajvente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\amclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\amclient.Designer.cs">
+      <DependentUpon>amclient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\client1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\client1.Designer.cs">
+      <DependentUpon>client1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\connixion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\connixion.Designer.cs">
+      <DependentUpon>connixion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\formulc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\formulc.Designer.cs">
+      <DependentUpon>formulc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\formuldec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\formuldec.Designer.cs">
+      <DependentUpon>formuldec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\fournisseur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\fournisseur.Designer.cs">
+      <DependentUpon>fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\modclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\modclient.Designer.cs">
+      <DependentUpon>modclient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\modfournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\modfournisseur.Designer.cs">
+      <DependentUpon>modfournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\modproduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\modproduit.Designer.cs">
+      <DependentUpon>modproduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\produit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\produit.Designer.cs">
+      <DependentUpon>produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Vente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\Vente.Designer.cs">
+      <DependentUpon>Vente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="forms\Achat.resx">
+      <DependentUpon>Achat.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ajachat.resx">
+      <DependentUpon>ajachat.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ajfournisseur.resx">
+      <DependentUpon>ajfournisseur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ajproduit.resx">
+      <DependentUpon>ajproduit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ajvente.resx">
+      <DependentUpon>ajvente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\amclient.resx">
+      <DependentUpon>amclient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\client1.resx">
+      <DependentUpon>client1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\connixion.resx">
+      <DependentUpon>connixion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\formulc.resx">
+      <DependentUpon>formulc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\formuldec.resx">
+      <DependentUpon>formuldec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\fournisseur.resx">
+      <DependentUpon>fournisseur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\modclient.resx">
+      <DependentUpon>modclient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\modfournisseur.resx">
+      <DependentUpon>modfournisseur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\modproduit.resx">
+      <DependentUpon>modproduit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\produit.resx">
+      <DependentUpon>produit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Vente.resx">
+      <DependentUpon>Vente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eteindre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parametres-cog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eteindre1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barre-de-menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_2099089-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_2099089.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_2099192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man_1165725.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trolley_4290854.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart_2038767.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\achat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fournisseur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sortie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bouton-supprimer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-utilisateur.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-utilisateur1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-mot-de-passe-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrepot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fournisseur %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produit %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\achat %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commerce-electronique.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parametres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eteindre %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bouton-supprimer %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supprimer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\handshake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery-courier %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-method.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\direct-marketing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrepot1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrepot %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrepot %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adjustments.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\genetic-engineering.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-call %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimante.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connectmode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deconnect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connectmode1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\des-boites.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\des-boites1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\euro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reference.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rechercher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rechercher1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deconnect1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connectmode2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-black1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-black2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connectmode3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-black3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verifie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nouveau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\euro %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\budget.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimante1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajouter-un-bouton-avec-le-symbole-plus-dans-un-cercle-noir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nouveau %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nouveau %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liste2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajouter-un-bouton-avec-le-symbole-plus-dans-un-cercle-noir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egal-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egal %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egal %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
